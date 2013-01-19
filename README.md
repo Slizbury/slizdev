@@ -1,2 +1,3 @@
-slizdev
-=======
+Code produced by slizdev.
+
+Starting with a couple of Mint 14 Cinnamon applets, and we'll see where we go from here....
